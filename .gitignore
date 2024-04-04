@@ -1,0 +1,9 @@
+#node-modules
+node-modules
+
+#output dir
+dist
+
+#local env
+build
+.env
