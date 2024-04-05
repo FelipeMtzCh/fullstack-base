@@ -1,9 +1,4 @@
-#node-modules
-node-modules
-
-#output dir
+node_modules
 dist
-
-#local env
 build
 .env
